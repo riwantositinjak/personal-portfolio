@@ -386,7 +386,7 @@ footer {
     align-items: center;
     justify-content: space-evenly;
     width: 50%;
-    transform: translateX(100%);
+    transform: translateY(-130%);
     transition: transform 0.6s ease-in;
   }
 
